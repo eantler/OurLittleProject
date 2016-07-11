@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## React Starter Kit — "isomorphic" web app boilerplate
 
 > [React Starter Kit](https://www.reactstarterkit.com) is an opinionated
@@ -104,3 +105,6 @@ file. The documentation to the project is licensed under the
 
 ---
 Made with ♥ by Konstantin Tarkus ([@koistya](https://twitter.com/koistya)) and [contributors](https://github.com/kriasoft/react-starter-kit/graphs/contributors)
+=======
+# OurLittleProject
+>>>>>>> 27760fb3aff52279d469096b3b96134cfe2129b3
